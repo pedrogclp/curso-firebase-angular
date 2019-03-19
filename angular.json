@@ -5,7 +5,7 @@
   "projects": {
     "curso-firebase-angular": {
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "client",
       "projectType": "application",
       "prefix": "app",
       "schematics": {},
