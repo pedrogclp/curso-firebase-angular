@@ -1,5 +1,7 @@
 # CursoFirebaseAngular
 
+Repositorio abierto para hacer un [curso de Angular + Firebase](https://www.udemy.com/desarrollo-de-aplicaciones-web-con-mean-stack-y-firebase-3/learn/v4/overview).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8.
 
 ## Development server
